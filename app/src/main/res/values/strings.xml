@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SampleMapsApp</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_save">Save</string>
+    <string name="sample_email">fionicholas05@gmail.com</string>
+    <string name="label_sample_maps_app">Sample Maps App</string>
 </resources>
